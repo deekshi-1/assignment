@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.select-box{
+  font-size: 20px;
+}
+
+.heightfix{
+  height: 20px;
+}
+
+.box{
+  background: rgb(191 223 226);
+  padding: 5px 15px;
+  border-radius: 15px;
+}
+.result{
+  margin-top: 5px;
+  background-color: aliceblue;
+  border-radius: 15px;  
+}
+
+.info-box{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.display-box{}
